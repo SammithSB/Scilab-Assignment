@@ -1,4 +1,4 @@
-# Scilab-Assignment
+# Scilab-Assignment made as a part of the course Linear Algebra and its applications(UE19MA251) at PES University
 Problem 1: Solve the system of equations 7x + 3y + 4z = 12, 5x -7 y - z = -9 and
 5x + 3y – 2z = -8 using Gaussian Elimination. Also, identify the pivots.
 <br>
