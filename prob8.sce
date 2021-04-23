@@ -24,6 +24,6 @@ for k=1:3
     x=[x y];
 end
 endfunction
-get f('eigenvectors')
+get f(eigenvectors)
 [x,lam] = eigenvectors(A)
 disp(x,'The eigen vectors of A are');
